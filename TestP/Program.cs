@@ -7,10 +7,12 @@ class Program
 {
     async static Task Main(string[] args)
     {
-        await Task.Run(() => BaseA());
+        
+        await Task.Run(() => Launcher());
+        
     }
 
-    private static void BaseA()
+    private static void Launcher()
     {
         JsonToTxt();
        
