@@ -5,14 +5,20 @@ namespace TestP;
 class Program
 
 {
-    async static Task Main(string[] args)
+    public static string subOut = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
+     static void Main(string[] args)
+     {
+
+         Launcher();
+
+     }
+
+    async static Task AsuncLauncher()
     {
-        
         await Task.Run(() => Launcher());
-        
     }
 
-    private static void Launcher()
+    internal static void Launcher()
     {
         JsonToTxt();
        
@@ -23,7 +29,7 @@ class Program
 
         TxtToJson();
         
-        var subOut = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
+       // subOut = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
         string out_path = @"OutputFiles";
         string subpath = subOut;
         DirectoryInfo dirInfo = new DirectoryInfo(out_path);
