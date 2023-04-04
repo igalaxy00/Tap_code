@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBPO44/1fALFv6DtHCScI83/5oOO3Od1b69+ai0I9xV0zIa0+MTaY2w3uYzPkJXVQ1SYsZkcYwNjm99yA/a48w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\RiderProjects\\RecoverP\\TestP\\TestP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

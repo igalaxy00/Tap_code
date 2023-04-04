@@ -1,0 +1,17 @@
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\TestP.exe
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\TestP.deps.json
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\TestP.runtimeconfig.json
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\TestP.dll
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\TestP.pdb
+C:\Users\Igor\RiderProjects\RecoverP\TestP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.csproj.AssemblyReference.cache
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.AssemblyInfoInputs.cache
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.AssemblyInfo.cs
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.csproj.CoreCompileInputs.cache
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.csproj.CopyComplete
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.dll
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\refint\TestP.dll
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.pdb
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\TestP.genruntimeconfig.cache
+C:\Users\Igor\RiderProjects\RecoverP\TestP\obj\Debug\net7.0\ref\TestP.dll

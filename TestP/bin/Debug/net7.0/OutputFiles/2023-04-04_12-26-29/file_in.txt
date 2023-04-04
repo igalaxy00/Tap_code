@@ -1,0 +1,2 @@
+lc	l1x	l2x	lot	bp	rmax	rmin	mpr	mg0	hgruza	nvil
+26.9	7.507	2.957	26.32	7.54	30.0	8.0	25.0	20	9.5	12
