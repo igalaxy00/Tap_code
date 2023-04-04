@@ -5,7 +5,12 @@ namespace TestP;
 class Program
 
 {
-    static void Main(string[] args)
+    async static Task Main(string[] args)
+    {
+        await Task.Run(() => BaseA());
+    }
+
+    private static void BaseA()
     {
         JsonToTxt();
        
@@ -92,4 +97,6 @@ class Program
         string json = JsonConvert.SerializeObject(data2);
         File.WriteAllText("output.json", json);
     }
+    
+    
 }
